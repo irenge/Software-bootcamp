@@ -1,0 +1,29 @@
+START
+loop till user enter zero
+	if user does not enter zero
+	    request positive integer
+when loop break, print largest
+END
+
+START
+read integers
+sum the integers 
+divide the sum by the number of entered integers, save as average
+print average
+END
+
+START
+read list of product
+if items still yet to buy 
+   sort products
+   print sorted list of product yet to buy
+END
+
+START
+read two numbers
+sum the numbers and save the total
+divide the total in two and save the average
+Multiply the two numbers and save this product
+Display the total, average and prouct
+END 
+
