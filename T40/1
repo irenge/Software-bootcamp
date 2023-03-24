@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title id="online cv">Online CV</title>
+<!--This is my CV to present to future employee -->
+</head>
+<body>
+	<h1> Online Portfolio of work </h1>
+	<h2> Short bio</h2>
+	<p>
+	Jules Irenge is a hardworking and knowledgeable computer scientist, <br>
+	recently certified Linux System administrator with 11 years experience of using the Linux Operating system.<br>
+	He hold a master degree in Computer Science  from The University of Liverpool. </p>
+	<p>
+	Currently taking a Software engineering bootcamp with <mark>  The Hyperion Dev Academy </mark>
+	where he enhance his expertise in Python, SQL and SQLite  language. <br>
+	He aspire to be a Software engineer, System administrator or a programmer.<br>
+	</p>
+	<p>
+	He  quickly master new software languages and hardware technologies.<br>
+	Works well independently and as a part of a team and communicate well with people at all levels both verbally and written. <br>
+	He wish to find work that utilises my skills and enables me to grow and learn new skills.<br>
+        </p>
+	<p>When not on a computer, Jules enjoys jogging and playing chess. </p>
+	
+	<h2> Contacts </h2>
+	<img src="jules.jpeg" alt="Jules' avatar" width="50" height="50"> <br/>
+	Jules Irenge <br/>
+	Tel: 07944643969 <br/>
+	<a href="mailto:jbi.octave@gmail.com">email: jbi.octave@gmail.com</a><br/>
+	<a href = "https://www.linkedin.com/in/jules-irenge-87282238/"> linkedin</a><br/>
+
+	<h2> Skills and competencies </h2>
+	<ul>
+	<li> Technical skill  </li>
+	<ol>
+		<li> Operating systems:</li>
+		<ul>
+			<li> Linux: Fedora 37,Ubuntu LTS, Gentoo </li>
+			<li> Windows 10</li>
+		</ul>
+		</li>
+
+		<li> Editors:</li>
+		<ul>
+			<li>Vim </li>
+			<li> vscode</li>
+			<li> emacs</li>
+		</ul>
+		</li> 
+		<li> Programming Languages: </li>
+		<ul>
+			<li> C : proficient</li>
+			<li> Python: Proficient</li>
+			<li> C++, Java, Go, Fortran, Javascript, shell script, PhP, Assembly language: Knowledge</li>
+		</ul>
+
+	</ol>
+
+	<li> Teaching skill: </li>
+		<ul> 
+			<li>1 year experience in volunteering teaching python to underprivileged children in Salford</li>
+		</ul>
+
+	</ul>
+
+
+	<h2> Education </h2>
+	<ol>
+		
+                 <li> Certifications and training  </li>
+		 <ul>
+			 <li> Hyperion Academy: Software engineering bootcamp: ongoing</li>
+			 <li> Linux Kernel Internals and Development (LFD420) – Linux Foundation Organisation : 2021</li>
+			 <li> Linux System Administration Certification (LFCS) – Linux Foundation Organisation: 2020 </li>
+		 </ul>
+
+
+	<li> University education</li>
+		<ul>
+			<li> University of Liverpool, England 2015 – 2016, Master of Science - Advanced Computer Science : 2.1 </li>
+			<li> Catholic University of East Africa, Kenya 2008 – 2012 , Bachelor of Science (honours) - Computer Science : first class </li>
+
+		</ul>
+
+	</ol>
+	
+	
+	<h2> Work experience </h2>
+	
+	<ul>
+		<li> Software Freedom Conservancy</li>
+		<ul>
+			<li> Position: Linux Kernel Intern with Outreachy program</li>
+			<li> Location: Remote role</li>
+			<li> Fix lock related warnings in the core Linux Kernel</li>
+			<li> Weekly meetings for submitting reports and interacting with supervisor</li>
+		</ul>
+		<li> Sovereign House GH </li>
+		<ul>
+			<li>Position: Volunteer IT teacher</li>
+			<li> Location: Salford, Manchester</li>
+			<li> Teach python and Microbit to children</li>
+			<li> Maintain Linux and Windows running Laptop</li>
+			<li>Assist in some administrative tasks</li>
+		</ul>
+		<li> British Computer Society- West Yorkshire Branch</li>
+		<ul> 
+			<li> Position: Secretary </li>
+			<li> Location: Leeds </li>
+			<li> Working as a part of an online community </li>
+			<li> Organizing IT Conferences throughout West Yorkshire and speaking</li>
+			<li> Responsible for scheduling meetings, taking minutes </li>
+			<li> Submitting reports to Head Office </li>
+		</ul>
+
+		<li> Catholic University of Eastern Africa</li>
+		<ul> 
+			<li> Position: Linux Computer lab technician intern </li>
+			<li> Location: Nairobi Kenya</li>
+			<li> Deploying Ubuntu, CentOS</li>
+			<li> Install, configure and maintain educational software</li>
+			<li> Attend to any problems experienced by users/students</li>
+			<li> Any other duties assigned by supervisor</li>
+		</ul>
+	</ul>
+	
+	<h2> Projects</h2>
+	<ol>
+		<li>
+			<a href="https://git.kernel.org/" >Linux Kernel </a> : is the biggest open source project that improve on the Linux Operating System, an OS built using mostly C programming language. I contributed patches that can be seen <a href="https://linuxlists.cc/profile/52567/Jules_Irenge">
+				here </a>
+			
+		</li>
+		<li>
+			<a href = "https://github.com/orgs/elisa-tech/dashboard">Linux Kernel safety:</a>: This project focussed on the safety of application programs and mostly of the Linux Operating system running on embedded devices and how to mitigate the safety issue 
+
+		</li>
+	</ol>
+
+	
+	<h2> Links to my blog </h2>
+	<ol>	<li> <a href = "https://julesbashizi.wordpress.com/">Internship Experience</a>
+	</ol>
+
+
+
+<!--
+<form>
+<label> First name: </label>
+<input type = "text"><br>
+<label> Surname:</label>
+<input type = "text"><br>
+<label>Gender:</label><br>
+<select>
+<option value = "male" > Male</option>
+<option value = "female" > Female</option>
+<option value = "other" > Other</option>
+</select><br>
+<label> Age: </label><br>
+<input type = "text"><br>
+<input type="submit" value ="Add user">
+</form>
+-->
+</body>
+</html>

@@ -1,0 +1,17 @@
+Morocco,SKU77744,Challenge Court,1450,11
+Israel,SKU29888,Air Zoom Generation,2680,56
+Israel,SKU29888,Air Zoom Generation,2680,56
+Pakistan,SKU77999,Air Yeezy 2,4389,67
+Brazil,SKU44600,Air Jordan 11,3870,24
+Columbia,SKU87500,Air Huarache,2683,8
+India,SKU38773,Air Max 1,1900,29
+Vietnam,SKU95000,Air Mag,2000,52
+Israel,SKU79084,Air Foamposite,2430,54
+China,SKU93222,Air Stab,1630,10
+South Korea,SKU66734,Hyperdunk,1899,57
+Australia,SKU71827,Zoom Hyperfuse,1400,15
+South Korea,SKU66734,Hyperdunk,1899,57
+Kenya,SK3498U,Asus,3,51
+Kenya,2576U,Sol,2,50
+Congo,Sk2037u,carotte,3,52
+ke,k34,jouice,2,51

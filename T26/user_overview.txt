@@ -1,0 +1,44 @@
+Total number of users: 6
+Total number of tasks: 7
+
+user: admin
+Total number of tasks assigned :0
+Percentage of task assigned: 0
+Percentage of completed assigned task: 0
+Percentage of still to be completed: 0
+Percentage overdue not completed of assigned tasks: 0
+
+user: alan
+Total number of tasks assigned :1
+Percentage of task assigned: 14
+Percentage of completed assigned task: 0
+Percentage of still to be completed: 100
+Percentage overdue not completed of assigned tasks: 0
+
+user: passie
+Total number of tasks assigned :3
+Percentage of task assigned: 43
+Percentage of completed assigned task: 0
+Percentage of still to be completed: 100
+Percentage overdue not completed of assigned tasks: 33
+
+user: jules
+Total number of tasks assigned :2
+Percentage of task assigned: 29
+Percentage of completed assigned task: 0
+Percentage of still to be completed: 100
+Percentage overdue not completed of assigned tasks: 50
+
+user: metro
+Total number of tasks assigned :0
+Percentage of task assigned: 0
+Percentage of completed assigned task: 0
+Percentage of still to be completed: 0
+Percentage overdue not completed of assigned tasks: 0
+
+user: calif
+Total number of tasks assigned :0
+Percentage of task assigned: 0
+Percentage of completed assigned task: 0
+Percentage of still to be completed: 0
+Percentage overdue not completed of assigned tasks: 0

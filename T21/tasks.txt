@@ -1,0 +1,10 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+Elie, fix things, firefox, 20 Dec 2012, 06 Jan 2023, No
+charles, arrange wine in basement, take wine form sitting room and place them one by one in basement, 12 Dec 2012, 08 Jan 2023, Yes
+charlie, enter the zombie land, playing ps game, enter the zombie land, 20 Oct 2023, 08 Jan 2023, No
+admin, hello, testing hello world, 23 Oct 2022, 08 Jan 2023, Yes
+Passie, Maintain healthy style, Exercise everyday to maintain an helthy style, 21 Sep 1999, 08 Jan 2023, Yes
+james, rubbish, ldfjskfjkdanvdsfe, 22 Dec 22, 10 Jan 2023, No
+jules, construct a pyramid, take stones and build, 11 Oct 1981, 10 Jan 2023, No
+Elias, go to Moon, Climb the mountain and go to the moon, 19 Sep 2021, 10 Jan 2023, Yes
+Ilo, maintainance, maina, 20 Oct 2021, 10 Jan 2023, No

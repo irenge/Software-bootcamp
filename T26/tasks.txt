@@ -1,0 +1,8 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+alan, Dance hip hop, floor , 10 Mar 2023, 03 Feb 2023, No
+passie, learn c, coding, 11 Feb 2023, 03 Feb 2023, No
+passie, damn, damnish , 20 May 2023, 03 Feb 2023, No
+passie, dam, damnish, 20 Oct 2022, 03 Feb 2023, No
+jules, stop smoking , 2 days non smoking , 4 Feb 2023, 05 Feb 2023, No
+jules, testing Linux, writing the kernel, 20 Feb 2023, 05 Feb 2023, No
+calif, pap, shisha, 20 Nov 2023, 06 Feb 2023, No

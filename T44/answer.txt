@@ -1,0 +1,34 @@
+1.
+Define each of the following terms:
+	a) Data are raw facts, not yet processed to reveal its meaning 
+
+	b) Field is a character or group of characters that has specific meaning; it is used to define and store data 
+
+	c) Record is a logically connected set of one or more fields that
+describes a person, place, or thing.
+
+	d) File is a collection of related records.
+
+2. What is a DBMS and what are its advantages?
+  DBMS stands for Database Management Systems. It is a collection of programs, which works to manage the database structure and control access to the data stored in the database.
+The advantages of a DBMS are :
+* Better data sharing: DBMS allows end-users to have more efficient access to data, it does so by managing the database and colling access to data.
+
+* Improved data integration: DBMS helps provide a clearer and more integrated view of the organisation’s operations to the end-users
+* Minimised data inconsistency: DBMS greatly reduces the probability of data inconsistency
+* Improved data access: The DBMS makes it possible to produce quick answers to query
+* Improved decision making: Decisions are made based on information which DBMS generates at very high quality
+* Increased end-user productivity: with DBMS there is a constant availability of data and ability to transform data into usable information. This fact improved end-user productivity.
+
+
+3. Explain the difference between data and information.
+Data are unprocessed raw facts while information is the result of  processing  data to reveal their meaning.
+
+4. What is metadata?
+ Data about data . Metadata are the descriptions of the data characteristics, and relationships that link data variables together.
+
+5. Given the file below, answer the following questions:
+e) How many records does the file contain?
+   4 records 
+f) How many fields are there per record?
+   5 fields per record

@@ -1,0 +1,21 @@
+1. Protocol is procedure to follow in, for the context of HTTP, the creation of messages, transmission between server and client and action to take upon receiving a message
+
+2. HTTP is built on top of the TCP/IP protocols
+
+3. If a request is successful, the  status code of the response will be 200 OK 
+The 200s(200 - 299)  are the  Success codes returned when the browser request was received,
+understood, and processed by the server.
+
+4. Stateless protocol means the server does not hold the state of its client; in other words, The server does not retain the information of a session or the status of the client 
+Precisely in the HTTP context, the staless protocol means  every HTTP request the
+server receives is independent and does not relate to requests that came prior to it.
+
+5. The below are  valid MIME types:
+
+	b. image/jpeg
+
+	c. text/javascript
+
+	f.text/calendar
+
+6. The HTTP 403 Forbidden response status code indicated the server does not allowthe client request of specific ressource.

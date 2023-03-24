@@ -1,0 +1,7 @@
+item1 = input("Enter your first favourite food: ")
+item2 = input("Enter your second favourite food: ")
+item3 = input("Enter your third favourite food: ")
+print("Order confirmation ! You have ordered: ")
+print(item1)
+print(item2)
+print(item3)

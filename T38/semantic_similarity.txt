@@ -1,0 +1,8 @@
+Task 1 
+
+https://github.com/irenge/nlp_basic/blob/main/semantic.py
+https://github.com/irenge/nlp_basic/blob/main/notes_semantics.txt
+
+Task 2
+
+https://github.com/irenge/nlp_basic/blob/main/watch_next.py
